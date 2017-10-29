@@ -1,0 +1,1 @@
+INSERT INTO public.students (id, nrmatricol, name) VALUES (202, 'Vasile', 'Ion');
